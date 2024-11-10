@@ -1,3 +1,5 @@
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbbas01/Child-v-Adult-Predic/blob/main/CNNs.ipynb)
+
 # Child vs. Adult Mortality Classification Model
 # Overview
 This project develops a deep convolutional neural network (CNN) model to classify mortality predictions between children and adults based on health and socio-economic factors. The model leverages advanced image processing and data analysis techniques to identify patterns that correlate with mortality risk.
