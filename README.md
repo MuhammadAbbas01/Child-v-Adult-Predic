@@ -24,3 +24,9 @@ Explore additional datasets to enhance the model's robustness and generalizabili
 # Requirements
 Python
 Libraries: TensorFlow, Keras, pandas, numpy, matplotlib, seaborn
+
+## 📢 Request for Feedback
+I welcome feedback, suggestions, and reviews for this project.  
+If you find any issues or have suggestions for improvement, feel free to open an issue!
+
+- 🐛 **Open an Issue**: [Click here to report a problem](https://github.com/MuhammadAbbas01/Child-v-Adult-Predic/issues)               
